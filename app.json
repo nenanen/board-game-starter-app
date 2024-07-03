@@ -29,6 +29,9 @@
       "eas": {
         "projectId": "a61dc499-fc24-43e9-b0bd-5c9c6487360d"
       }
+    },
+    "experiments": {
+        "baseUrl": "/board-game-starter-app"
     }
   }
 }
