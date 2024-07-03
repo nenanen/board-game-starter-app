@@ -1,5 +1,5 @@
 # Boardgame Starter app
-React Native app which determines which player starts first, in a fun way!
+An Expo React Native app which determines which player starts first, in a fun way!
 
 Powered by OpenAI. 
 
