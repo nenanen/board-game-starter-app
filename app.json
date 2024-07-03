@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "latest",
+    "slug": "snack-83ed13d0-4c14-4196-a635-060ceb3b6e5d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nenanenanen.snack83ed13d04c144196a635060ceb3b6e5d"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.nenanenanen.snack83ed13d04c144196a635060ceb3b6e5d"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a61dc499-fc24-43e9-b0bd-5c9c6487360d"
+      }
+    }
+  }
+}
